@@ -1,7 +1,7 @@
 # Flight Controller Project
 
 This repository contains the final design of a **flight controller**, including the BOM, schematic, PCB layout, and 3D model preview.  
-
+This design uses a **4-layer PCB** for stable power distribution and signal integrity.  
 ---
 
 ## Bill of Materials (BOM)
@@ -24,23 +24,21 @@ Below is the list of essential components used in the flight controller. These a
 
 ## Schematic
 
-![PCB Schematic](path/to/your/schematic.png)  
-*Insert your schematic image here.*
+
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/9325a1ec-2ce2-4775-a86c-718ce7f457de" />
+
 
 ---
 
 ## PCB Layout and 3D Preview
 
-![PCB Layout](path/to/your/pcb_layout.png)  
-*Insert top/bottom layer PCB images here.*
 
-![3D Model](path/to/your/3d_model.png)  
-*Insert 3D model preview here.*
+<img width="432" height="421" alt="image" src="https://github.com/user-attachments/assets/2fe1d3b3-6c85-42af-9b1f-fb77fd71e1bd" />
+
+<img width="978" height="677" alt="image" src="https://github.com/user-attachments/assets/9bc5d845-e7ca-4320-8891-12dca43aa4cd" />
+
+
 
 ---
 
-## Notes
 
-- This design uses a **4-layer PCB** for stable power distribution and signal integrity.  
-- All components listed in the BOM are **essential for the flight controller to operate**.  
-- Optional components (LEDs, switches, mounting holes) are not included in this minimal BOM.  
