@@ -1,7 +1,0 @@
-import pcbnew
-
-board = pcbnew.GetBoard()
-for track in board.GetTracks():
-    if track.GetLayer() in [pcbnew.F_Cu, pcbnew.B_Cu]:
-        board.Remove(track)
-pcbnew.Refresh()
