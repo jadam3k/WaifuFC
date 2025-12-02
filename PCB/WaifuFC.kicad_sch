@@ -9107,18 +9107,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0d7ac1fa-4e73-48f1-bffe-acb101e2d3b8")
 		(property "Reference" "R20"
-			(at 163.83 71.12 90)
+			(at 161.29 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 163.83 73.66 90)
+		(property "Value" "5.1k"
+			(at 165.608 74.422 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12862,18 +12861,17 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8a3e50b2-5cb2-45c5-a338-bbd97a58da08")
 		(property "Reference" "R21"
-			(at 163.83 73.66 90)
+			(at 162.56 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 163.83 76.2 90)
+		(property "Value" "5.1k"
+			(at 166.624 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12908,10 +12906,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d0e3b377-bd58-42da-be84-b44e556207bc")
+			(uuid "d0e3b377-bd58-42da-be84-b44e556207bd")
 		)
 		(pin "1"
-			(uuid "15f4e2db-00b6-4fbb-88f6-805e1d925cd8")
+			(uuid "15f4e2db-00b6-4fbb-88f6-805e1d925cd9")
 		)
 		(instances
 			(project ""
@@ -14070,7 +14068,7 @@
 		(dnp no)
 		(uuid "b67a0aae-bb95-40fd-99b9-989064591b20")
 		(property "Reference" "R8"
-			(at 167.005 93.345 90)
+			(at 166.878 92.456 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14078,7 +14076,7 @@
 			)
 		)
 		(property "Value" "22R"
-			(at 167.005 95.885 90)
+			(at 167.132 94.488 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15851,7 +15849,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33359382-6251-4880-98c1-d915490ae49f")
+			(uuid "33359382-6251-4880-98c1-d915490ae4a0")
 		)
 		(instances
 			(project ""
@@ -16346,10 +16344,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f73de087-58ef-4627-bc8e-5fef4dc77a7a")
 		(property "Reference" "R7"
-			(at 167.005 81.28 90)
+			(at 167.132 84.074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16357,7 +16354,7 @@
 			)
 		)
 		(property "Value" "22R"
-			(at 167.005 83.82 90)
+			(at 167.386 85.852 90)
 			(effects
 				(font
 					(size 1.27 1.27)
