@@ -23,7 +23,7 @@ Below is the list of essential components used in the flight controller. These a
 | D4                         | JLCPCB PCBA   | Blue LED 0603                                                |
 | D6                         | JLCPCB PCBA   | S7 Diode SOD-123                                             |
 | J1                         | JLCPCB PCBA   | 3-pin Header Pad (SBUS)                                      |
-| J2                         | JLCPCB PCBA   | USB-C Receptacle, Palconn UTC16-G, USB2.0                    |
+| J2                         | 11 PLN   | USB-C Receptacle, Palconn UTC16-G, USB2.0                    |
 | J3                         | JLCPCB PCBA   | 3-pin Header Pad (PPM)                                       |
 | J4                         | JLCPCB PCBA   | 6-pin Header Pad (OUT)                                       |
 | J5, J6                     | JLCPCB PCBA   | 2-pin Connector Pad                                          |
