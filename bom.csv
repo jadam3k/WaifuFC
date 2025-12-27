@@ -1,40 +1,40 @@
 Name,Quantity
-100nF 0402 Ceramic Capacitor,JLCPCB PCBA
-2.2nF 0402 Ceramic Capacitor,JLCPCB PCBA
-10uF/50V 1206 Ceramic Capacitor,JLCPCB PCBA
-150pF 0402 Ceramic Capacitor,JLCPCB PCBA
-22uF/16V 1206 Ceramic Capacitor,JLCPCB PCBA
-10uF 0805 Ceramic Capacitor,JLCPCB PCBA
-20pF 0402 Ceramic Capacitor,JLCPCB PCBA
-10nF 0402 Ceramic Capacitor,JLCPCB PCBA
-SS34 Schottky Diode,JLCPCB PCBA
-Red LED 0603,JLCPCB PCBA
-Blue LED 0603,JLCPCB PCBA
-S7 Diode SOD-123,JLCPCB PCBA
-3-pin Header Pad (SBUS),JLCPCB PCBA
-USB-C Receptacle, Palconn UTC16-G, USB2.0,JLCPCB 9,79zł 
-3-pin Header Pad (PPM),JLCPCB PCBA
-6-pin Header Pad (OUT),JLCPCB PCBA
-2-pin Connector Pad,JLCPCB PCBA
-4-pin Connector Pad,JLCPCB PCBA
-15uH / 3A Power Inductor, SMD Neosid SM-PIC0602H,JLCPCB PCBA
-Net Tie, 2 pads SMD 2.0mm,JLCPCB PCBA
-1P NPN Transistor, SOT-23, MMBT2222A,JLCPCB PCBA
-10kΩ 0402 Resistor,JLCPCB PCBA
-24kΩ 0402 Resistor,JLCPCB PCBA
-100kΩ 0402 Resistor,JLCPCB PCBA
-200kΩ 0402 Resistor,JLCPCB PCBA
-39kΩ 0402 Resistor,JLCPCB PCBA
-150Ω 0402 Resistor,JLCPCB PCBA
-330Ω 0402 Resistor,JLCPCB PCBA
-260Ω 0402 Resistor,JLCPCB PCBA
-12kΩ 0402 Resistor,JLCPCB PCBA
-5.1kΩ 0402 Resistor,JLCPCB PCBA
-4.7kΩ 0402 Resistor,JLCPCB PCBA
-22Ω 0402 Resistor,JLCPCB PCBA
-SPST Push Button Switch B3U-1000P,JLCPCB PCBA
-STM32F103C8T6 Microcontroller, LQFP-48,JLCPCB PCBA
-MPU-6050 3-axis Gyroscope & Accelerometer, QFN-24,JLCPCB PCBA
-MP1584 Buck Converter, SOIC-8,JLCPCB PCBA
-AZ1117-3.3V Voltage Regulator, SOT-89-3,JLCPCB PCBA
-8MHz Crystal Oscillator, SMD 3225 4-pin,JLCPCB PCBA
+"100nF 0402 Ceramic Capacitor (C1, C10, C14, C2, C3, C4, C5, C9)","JLCPCB PCBA"
+"2.2nF 0402 Ceramic Capacitor (C11)","JLCPCB PCBA"
+"10uF/50V 1206 Ceramic Capacitor (C12)","JLCPCB PCBA"
+"150pF 0402 Ceramic Capacitor (C13)","JLCPCB PCBA"
+"22uF/16V 1206 Ceramic Capacitor (C15)","JLCPCB PCBA"
+"10uF 0805 Ceramic Capacitor (C16, C17)","JLCPCB PCBA"
+"20pF 0402 Ceramic Capacitor (C6, C7)","JLCPCB PCBA"
+"10nF 0402 Ceramic Capacitor (C8)","JLCPCB PCBA"
+"SS34 Schottky Diode (D1, D2)","JLCPCB PCBA"
+"Red LED 0603 (D3, D5)","JLCPCB PCBA"
+"Blue LED 0603 (D4)","JLCPCB PCBA"
+"S7 Diode SOD-123 (D6)","JLCPCB PCBA"
+"3-pin Header Pad (SBUS) (J1)","JLCPCB PCBA"
+"USB-C Receptacle, Palconn UTC16-G, USB2.0 (J2)","11 PLN"
+"3-pin Header Pad (PPM) (J3)","JLCPCB PCBA"
+"6-pin Header Pad (OUT) (J4)","JLCPCB PCBA"
+"2-pin Connector Pad (J5, J6)","JLCPCB PCBA"
+"4-pin Connector Pad (J7)","JLCPCB PCBA"
+"15uH / 3A Power Inductor, SMD Neosid SM-PIC0602H (L1)","JLCPCB PCBA"
+"Net Tie, 2 pads SMD 2.0mm (NT1)","JLCPCB PCBA"
+"1P NPN Transistor, SOT-23, MMBT2222A (Q1)","JLCPCB PCBA"
+"10kΩ 0402 Resistor (R1, R2)","JLCPCB PCBA"
+"24kΩ 0402 Resistor (R10)","JLCPCB PCBA"
+"100kΩ 0402 Resistor (R11, R12, R18, R9)","JLCPCB PCBA"
+"200kΩ 0402 Resistor (R13)","JLCPCB PCBA"
+"39kΩ 0402 Resistor (R14)","JLCPCB PCBA"
+"150Ω 0402 Resistor (R15)","JLCPCB PCBA"
+"330Ω 0402 Resistor (R16)","JLCPCB PCBA"
+"260Ω 0402 Resistor (R17)","JLCPCB PCBA"
+"12kΩ 0402 Resistor (R19)","JLCPCB PCBA"
+"5.1kΩ 0402 Resistor (R20, R21)","JLCPCB PCBA"
+"4.7kΩ 0402 Resistor (R3, R4, R5, R6)","JLCPCB PCBA"
+"22Ω 0402 Resistor (R7, R8)","JLCPCB PCBA"
+"SPST Push Button Switch B3U-1000P (SW1)","JLCPCB PCBA"
+"STM32F103C8T6 Microcontroller, LQFP-48 (U1)","JLCPCB PCBA"
+"MPU-6050 3-axis Gyroscope & Accelerometer, QFN-24 (U2)","JLCPCB PCBA"
+"MP1584 Buck Converter, SOIC-8 (U3)","JLCPCB PCBA"
+"AZ1117-3.3V Voltage Regulator, SOT-89-3 (U4)","JLCPCB PCBA"
+"8MHz Crystal Oscillator, SMD 3225 4-pin (Y1)","JLCPCB PCBA"
